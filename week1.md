@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Brian Too
+by: Brian Too 
 ---
 
 During the first week, I was welcomed to an orientation to the program and the project that I will be working on for the duration of the program. I was able to meet my group partners who vary in professions, two electrical engineers and one political scientist, and I was able to meet my mentor, a well-accomplished innovator, researcher, and computer scientist.  
