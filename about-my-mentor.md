@@ -22,6 +22,6 @@ A Mentor and Innovator
 
 David Nyarko’s dedication to advancing technology and his ability to mentor others make him a valuable asset to any team. His continuous efforts to improve and innovate inspire those around him, making him a respected figure in the technology community.
 
-[Mentor's Linkedin](https://htilua.org/about-the-pi](https://www.linkedin.com/in/david-nyarko-766974163/)) 
+[Mentor's Linkedin](https://www.linkedin.com/in/david-nyarko-766974163/)
 
 
