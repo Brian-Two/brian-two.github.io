@@ -36,7 +36,7 @@ Juneteenth - No Institute
 
 Thursday:
 
-We had a field trip to NASA, which was very insightful. I connected with professionals working on robotics projects similar to the end goal of my project. This experience provided me with valuable information and advice that I can bring back to my project.
+We had a field trip to NASA, which was very insightful. 
 
 Friday:
 
@@ -70,6 +70,8 @@ Findings:
 Algorithms Used:
 
 	•	SLAM (Simultaneous Localization and Mapping)
+	•	Utilized the test_motors utility for testing motor functions, which includes algorithms for spinning motors and measuring their velocities and distances.
+ 
 
 Insights:
 
