@@ -16,4 +16,3 @@ This week focused on [brief description of the focus areas, e.g., final mapping 
 
 **Personal Reflections:**
 
-This week has been a fitting conclusion to a productive and enriching program. The successful mapping and localization, coupled with a well-received presentation, demonstrated the progress made. The mentorship and support provided a nurturing environment for growth and learning. As I look forward to continuing this work in the fall semester, I am grateful for the opportunity and excited about future developments.
