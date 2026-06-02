@@ -38,9 +38,38 @@ This week was dedicated to furthering our work in autonomous navigation and SLAM
 - **Collaborative Problem-Solving**: Worked closely with Dr. Scott to resolve issues related to ROS versions and hardware setup, highlighting the importance of collaboration in overcoming technical challenges. This teamwork was crucial for making progress.
 - **Detailed Documentation**: Created comprehensive documentation to replicate the work done, ensuring that future troubleshooting and setup processes are streamlined. This documentation will be invaluable for anyone looking to reproduce or build upon our work.
 
-Research Paper: 
+## Research Paper
 
-[Uploading AI Robot Autonomy  CEAMLS Summer AI Research Institute Final Report IEEE.docx.pdf…]()
+[Open Research Paper](assets/paper.pdf)
+
+## Project Feature Video
+
+This video features the autonomous robot project being represented in the news and provides public-facing context for the work.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/b9aJA9C0Q6w"
+title="AI Robot Autonomy Project Feature Video"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen>
+</iframe>
+
+## VSLAM Demonstration Video
+
+This video demonstrates the VSLAM mapping work, including the robot’s visual SLAM setup and room-mapping progress.
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe 
+    src="https://player.vimeo.com/video/1197814380?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+    frameborder="0" 
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+    title="VSLAM Demo">
+  </iframe>
+</div>
+
+
 
 **Personal Reflections:**
 
@@ -48,4 +77,9 @@ This week has been highly productive, with critical milestones achieved in robot
 
 As we continue our journey, addressing remaining challenges and optimizing the SLAM setup will be essential for achieving our autonomous navigation goals.
 
-https://www.youtube.com/watch?v=b9aJA9C0Q6w 
+## Links Reviewed
+
+- [Research Paper: AI Robot Autonomy Final Report](assets/paper.pdf)
+- [Project Feature / News Video](https://www.youtube.com/watch?v=b9aJA9C0Q6w)
+- [VSLAM Demonstration Video](https://player.vimeo.com/video/1197814380)
+
