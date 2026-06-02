@@ -18,9 +18,6 @@ This week was dedicated to furthering our work in autonomous navigation and SLAM
 
 
 
-
-
-
 **Findings:**
 
 - **ROS Version Compatibility**: Identified that ROS Galactic on Ubuntu 20.04 was not compatible with the required SLAM packages, necessitating a switch to ROS Humble on Ubuntu 22.04 via Docker. This finding highlights the importance of maintaining compatibility between software versions.
