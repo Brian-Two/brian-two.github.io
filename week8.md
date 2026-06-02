@@ -15,6 +15,12 @@ This week was dedicated to furthering our work in autonomous navigation and SLAM
 - **SLAM Visualization**: Enabled visualization of SLAM mapping on the host machine by correctly launching the SLAM node on the robot first and ensuring all topics were available. This success allows for a better understanding and debugging of the SLAM process.
 - **Room Map Creation**: Successfully mapped the room using the visual SLAM setup and began testing the localization features. This map will serve as a foundation for future navigation tasks.
 
+
+
+
+
+
+
 **Findings:**
 
 - **ROS Version Compatibility**: Identified that ROS Galactic on Ubuntu 20.04 was not compatible with the required SLAM packages, necessitating a switch to ROS Humble on Ubuntu 22.04 via Docker. This finding highlights the importance of maintaining compatibility between software versions.
@@ -35,8 +41,14 @@ This week was dedicated to furthering our work in autonomous navigation and SLAM
 - **Collaborative Problem-Solving**: Worked closely with Dr. Scott to resolve issues related to ROS versions and hardware setup, highlighting the importance of collaboration in overcoming technical challenges. This teamwork was crucial for making progress.
 - **Detailed Documentation**: Created comprehensive documentation to replicate the work done, ensuring that future troubleshooting and setup processes are streamlined. This documentation will be invaluable for anyone looking to reproduce or build upon our work.
 
+Research Paper: 
+
+[Uploading AI Robot Autonomy  CEAMLS Summer AI Research Institute Final Report IEEE.docx.pdf…]()
+
 **Personal Reflections:**
 
 This week has been highly productive, with critical milestones achieved in robot assembly and SLAM mapping. Despite the technical challenges, the collaborative efforts and systematic troubleshooting led to significant progress. Moving forward, the focus will be on refining the mapping process and ensuring robust localization capabilities.
 
 As we continue our journey, addressing remaining challenges and optimizing the SLAM setup will be essential for achieving our autonomous navigation goals.
+
+https://www.youtube.com/watch?v=b9aJA9C0Q6w 
